@@ -5,11 +5,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>todos-cucumber-framework</groupId>
-	<artifactId>todos-cucumber-framework</artifactId>
+	<groupId>todos-with-cucumber-framework</groupId>
+	<artifactId>todos-with-cucumber-framework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>todos-cucumber-framework</name>
+	<name>todos-with-cucumber-framework</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
